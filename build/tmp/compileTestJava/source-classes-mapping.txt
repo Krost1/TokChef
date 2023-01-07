@@ -1,0 +1,6 @@
+proj/poo/preparation/PlatTest.java
+ proj.poo.preparation.PlatTest
+proj/poo/personne/ChefTest.java
+ proj.poo.personne.ChefTest
+proj/poo/personne/PersonneTest.java
+ proj.poo.personne.PersonneTest
